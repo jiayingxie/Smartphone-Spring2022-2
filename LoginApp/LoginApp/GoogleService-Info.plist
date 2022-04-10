@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>807383686408-8olhpeln04b0iov507oetaumdm9l1ia2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.807383686408-8olhpeln04b0iov507oetaumdm9l1ia2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCXIp00ngg18Yok8WO244EjL2yeer-HP7k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>807383686408</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.northeastern.jiayingxie.LoginApp</string>
+	<key>PROJECT_ID</key>
+	<string>loginappspring2022-dc545</string>
+	<key>STORAGE_BUCKET</key>
+	<string>loginappspring2022-dc545.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:807383686408:ios:ad106ee7ddf4daffc860bd</string>
+</dict>
+</plist>
