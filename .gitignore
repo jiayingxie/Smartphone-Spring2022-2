@@ -1,3 +1,6 @@
 **/Pods
 **/.DS_Store
 **/Podfile.lock
+WorldWeather/WorldWeather/Assets.xcassets/
+StockMasterSecondExample/StockMasterSecondExample.xcworkspace/contents.xcworkspacedata
+WorldWeather/WorldWeather.xcworkspace/
